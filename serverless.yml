@@ -9,5 +9,5 @@ provider:
   region: us-east-1
   timeout: 15
 functions:
-  hello:
+  users_api:
     handler: handler.users_api
